@@ -1,1 +1,1 @@
-# glacier_archive
+Stub readme for AWS Glacier Archive Project
